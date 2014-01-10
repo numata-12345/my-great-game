@@ -10,6 +10,10 @@
 
 @implementation MVAppDelegate
 
+- (void)myFuncFoo
+{
+}
+
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     NSLog(@"Hogehoge");
